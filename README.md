@@ -29,6 +29,7 @@ ex Pharmacist
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" title="Git" alt="Git" width="35" height="35"/>&nbsp;
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <br />
 <br />
 
