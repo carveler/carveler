@@ -1,7 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 - 🌱 &nbsp;I’m currently learning Python, LLM
-- 💬 &nbsp;I speak 🇬🇧 
+- 💬 &nbsp;I speak 🇬🇧 🇯🇵 🇩🇪 🇧🇷 
 - ⚡ Fun fact:&nbsp;: I love surfing snowboarding surfskating
 
 
