@@ -11,4 +11,5 @@
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer
+I am passionate about using technology to solve a variety of user problems and bring new ideas to life. With expertise as a full-stack developer in React, TypeScript, Elixir, and Node.js, I have a proven track record of developing responsive web and mobile applications. I am adaptable and flexible, able to work in changing environments and adjust to new challenges quickly.
+ex Pharmacist
