@@ -2,6 +2,7 @@
 
 - 🌱 &nbsp;I’m currently learning Python, LLM
 - 💬 &nbsp;I’m Javascript/Typescript/React/Python developer
+- 💬 &nbsp;I speak 🇬🇧 
 - ⚡ &nbsp; I love surfing snowboarding surfskating
 
 
